@@ -17,7 +17,7 @@ attractive. So here’s what I did!
 
 ----
 
-**Concept: Uses Open CV object detection using solour segmentation**  
+**Concept: Uses Open CV object detection using colour segmentation**  
 
 ----
 
