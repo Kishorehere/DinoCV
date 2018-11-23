@@ -5,6 +5,8 @@ online. But my internet connection had other plans, the T-Rex runner (or the Din
 popularly known) greeted me. Being a tronix enthusiast, I decided to make it
 attractive. So here’s what I did!
 
+------------------------------------------------------------------------------
+
 
 ## Discription 
 
